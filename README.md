@@ -1,2 +1,12 @@
 # StarGateVR
-Native Quest 3 VR app for immersive exploration of real astronomical datasets, including SDSS galaxies and Gaia stars. Visualizes large-scale structure in 3D, with hundreds of thousands of objects rendered in true spatial context.
+
+**StarGateVR** is a native Quest 3 application for immersive exploration of astronomical datasets, including SDSS galaxy distributions and Gaia starfields. It renders hundreds of thousands of celestial objects in a navigable 3D environment, allowing users to explore cosmic structures in virtual reality.
+
+This public project page shares visualizations and documentation related to the StarGateVR experience. Source code and application builds are currently private.
+
+👓 Highlights:
+- 200,000+ SDSS-based galaxies in 3D redshift space
+- Gaia DR3 star data with true positions and colors
+- Supports native Quest 3 rendering with optimized GPU pipelines
+
+📬 For more information, contact: tskillman@immsci.com or www.immsci.com/stargatevr
