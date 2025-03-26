@@ -1,1 +1,27 @@
-asdfasdf
+Getting Started
+To embark on your cosmic journey with StarGateVR, follow these steps:
+
+Installation: Download and install StarGateVR from the official website or the Oculus Store.​
+
+Prepare Your Dataset:
+
+Create a CSV File: Organize the astronomical data you wish to visualize into a CSV file. Ensure that the file adheres to the format specified in the StarGateVR User Manual, particularly maintaining the capitalization of column names up to the "one" column.​
+Immsci
+
+Transfer the CSV File to Your Quest Headset:
+
+Connect to PC: Use a USB-C cable to connect your Oculus Quest 3 headset to your computer.​
+
+Enable File Transfer: Put on the headset and, when prompted, allow access to data.​
+
+Locate the StarGateVR Directory: On your computer, navigate to the Quest's storage and find the StarGateVR folder.​
+
+Upload Your CSV File: Copy your prepared CSV file into the StarGateVR directory.​
+
+Setup: Ensure your Oculus Quest 3 headset is properly configured and that you have sufficient space to move safely.​
+
+Navigation: Launch StarGateVR and use the Oculus controllers to navigate through the universe. Detailed instructions on controls and features can be found in the StarGateVR User Manual.​
+
+Exploration: Select celestial objects to learn more about them, observe their properties, and understand their place in the cosmos.​
+
+By following these steps, you can customize your StarGateVR experience to explore specific astronomical datasets of interest.
