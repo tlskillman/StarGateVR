@@ -5,7 +5,7 @@ Installation: Download and install StarGateVR from the official website or the O
 
 Prepare Your Dataset:
 
-Create a CSV File: Organize the astronomical data you wish to visualize into a CSV file. Ensure that the file adheres to the format specified in the StarGateVR User Manual, particularly maintaining the capitalization of column names up to the "one" column.​
+Create a CSV File: Organize the astronomical data you wish to visualize into a CSV file. Ensure that the file adheres to the format specified in the StarGateVR User Manual, typically one row of data per star or galaxy, including columns for Ra, Dec, Distance, or X, Y, Z, plus any extra columns of data you want to include.
 Immsci
 
 Transfer the CSV File to Your Quest Headset:
