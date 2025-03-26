@@ -5,8 +5,9 @@
 This public project page shares visualizations and documentation related to the StarGateVR experience. Source code and application builds are currently private.
 
 👓 Highlights:
-- 200,000+ SDSS-based galaxies in 3D redshift space
-- Gaia DR3 star data with true positions and colors
+- Demostrated visualization of
+- - SDSS-based galaxies in 3D redshift space
+- - Gaia DR3 star data with true positions and colors
 - Supports native Quest 3 rendering with optimized GPU pipelines
 
-📬 For more information, contact: tskillman@immsci.com or www.immsci.com/stargatevr
+📬 For more information, contact: tskillman@immsci.com or see: www.immsci.com/stargatevr
