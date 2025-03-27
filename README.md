@@ -83,15 +83,6 @@ StarGateVR integrates well into the early phases of data exploration, offering a
 
 VR headset adoption in astronomy is still limited. Data preprocessing is required to prepare datasets for import, and large datasets (>10⁵ stars) may require subsampling. Integration with analysis environments (e.g., Python) is currently manual, though future versions may include direct scripting or API support.
 
-### 5.3 Future Development
-
-Planned enhancements include:
-
-- Streaming large datasets from online archives  
-- Support for volumetric data cubes  
-- On-the-fly analytics and clustering  
-- Desktop (non-VR) mode for broader accessibility  
-
 ---
 
 ## 6. Conclusion
