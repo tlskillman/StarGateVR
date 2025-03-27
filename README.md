@@ -102,4 +102,4 @@ StarGateVR demonstrates that immersive tools can make substantial contributions 
 
 ## Acknowledgements
 
-We thank Ryan W. Butler and Joel H. Kastner of RIT for their leadership in scientific application and testing of StarGateVR. Development was supported by Immersive Science LLC. Scientific use cases were enabled by collaborations with the RIT Chester F. Carlson Center for Imaging Science and School of Physics & Astronomy. We also acknowledge the *Astronomy & Computing* editors for encouraging the documentation of immersive tools.
+We thank Ryan W. Butler and Joel H. Kastner of RIT for their discussion and testing of StarGateVR. 
